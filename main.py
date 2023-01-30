@@ -23,3 +23,5 @@ with col2:
     
     """
     st.info(content)
+
+st.text("Below you can find some of the apps i have built in Python. Feel free to contact me!")
